@@ -1,0 +1,30 @@
+{
+  "item.hades.rainbow_ingot": "Rainbow Ingot",
+  "item.hades.cotton": "Cotton",
+  "item.hades.amiskwia_egg": "Amiskwia Egg",
+  "item.hades.amiskwia_dna": "Amiskwia DNA",
+  "item.hades.amiskwia_embryo": "Amiskwia Embryo",
+  "item.hades.thelodus_dna": "Thelodus DNA",
+  "item.hades.thelodus_embryo": "Thelodus Embryo",
+  "item.hades.thelodus_egg": "Thelodus Egg",
+  "item.hades.epidexipteryx_dna": "Epidexipteryx DNA",
+  "item.hades.epidexipteryx_embryo": "Epidexipteryx Embryo",
+  "item.hades.epidexipteryx_egg": "Epidexipteryx Egg",
+  "item.hades.fried_egg": "Fried Egg",
+  "item.hades.carrot_cake": "Carrot Cake",
+  "item.hades.redstone_sword": "Redstone Sword",
+  "item.hades.redstone_pickaxe": "Redstone Pickaxe",
+  "item.hades.redstone_axe": "Redstone Axe",
+  "item.hades.redstone_shovel": "Redstone Shovel",
+  "item.hades.redstone_hoe": "Redstone Hoe",
+  "item.hades.bey_launcher": "Bey Launcher",
+  "item.hades.burn_fireblaze": "Burn Fireblaze 135MS",
+  "item.hades.kries_cygnus": "Kries Cygnus 145WD",
+  "item.hades.dark_cancer": "Dark Cancer CH125SF",
+
+  "block.hades.bismuth_ore": "Bismuth Ore",
+
+
+  "itemGroup.hades": "Hades Amendment"
+
+}
